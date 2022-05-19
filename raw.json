@@ -191,8 +191,8 @@
       "inProgressData": {
         "daysInPause": 0,
         "startDate": "07/01/2021",
-        "endDate": "05/17/2022",
-        "durationDays": 320
+        "endDate": "05/19/2022",
+        "durationDays": 322
       },
       "totalDuration": {
         "startDate": "07/01/2021",
@@ -353,8 +353,8 @@
   "inProgressData": {
     "daysInPause": 0,
     "startDate": "06/25/2021",
-    "endDate": "05/17/2022",
-    "durationDays": 326
+    "endDate": "05/19/2022",
+    "durationDays": 328
   },
   "totalDuration": {
     "startDate": "06/21/2021",
