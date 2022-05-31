@@ -163,7 +163,7 @@
           "tid": "1578916",
           "name": "Issuance of a Final EA",
           "originalTargetDate": "2021-12-31",
-          "currentTargetDate": "2022-05-31",
+          "currentTargetDate": "2022-06-13",
           "milestoneComplete": false,
           "numberOfTargetDateChanges": 0,
           "fast41MissedDates": null
@@ -172,7 +172,7 @@
           "tid": "1578926",
           "name": "EA Process Concluded",
           "originalTargetDate": "2021-12-31",
-          "currentTargetDate": "2022-05-31",
+          "currentTargetDate": "2022-06-13",
           "milestoneComplete": false,
           "numberOfTargetDateChanges": 0,
           "fast41MissedDates": null
@@ -181,7 +181,7 @@
       "hasMissedDate": null,
       "missedDateExempted": null,
       "startDate": 1625112000000,
-      "endDate": 1653969600000,
+      "endDate": 1655092800000,
       "noEndDate": false,
       "expectedEndDate": 1640926800000,
       "actionComplete": false,
@@ -196,8 +196,8 @@
       },
       "totalDuration": {
         "startDate": "07/01/2021",
-        "endDate": "05/31/2022",
-        "durationDays": 334
+        "endDate": "06/13/2022",
+        "durationDays": 347
       }
     },
     {
@@ -339,9 +339,9 @@
   "projectStatus": "In Progress",
   "startDate": 1624248000000,
   "endDate": 1640926800000,
-  "actualEndDate": 1653969600000,
+  "actualEndDate": 1655092800000,
   "rangeStart": 1611288000000,
-  "rangeEnd": 1666929600000,
+  "rangeEnd": 1668052800000,
   "isFast41": false,
   "hasPausedAction": false,
   "numOfTicks": 15,
@@ -358,7 +358,7 @@
   },
   "totalDuration": {
     "startDate": "06/21/2021",
-    "endDate": "05/31/2022",
-    "durationDays": 344
+    "endDate": "06/13/2022",
+    "durationDays": 357
   }
 }
