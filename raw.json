@@ -137,8 +137,8 @@
       "actionIdentifier": null,
       "actionOutcome": null,
       "responsibleAgency": "Federal Aviation Administration",
-      "status_tid": "3036",
-      "status": "In Progress",
+      "status_tid": "3026",
+      "status": "Complete",
       "actualCompletionDate": 0,
       "milestoneData": [
         {
@@ -173,7 +173,7 @@
           "name": "EA Process Concluded",
           "originalTargetDate": "2021-12-31",
           "currentTargetDate": "2022-06-13",
-          "milestoneComplete": false,
+          "milestoneComplete": true,
           "numberOfTargetDateChanges": 0,
           "fast41MissedDates": null
         }
@@ -335,8 +335,8 @@
   ],
   "nid": "96576",
   "title": "SpaceX Starship/Super Heavy Launch Vehicle Program at the SpaceX Boca Chica Launch Site in Cameron County, Texas",
-  "isProjectCompleted": false,
-  "projectStatus": "In Progress",
+  "isProjectCompleted": true,
+  "projectStatus": "Complete",
   "startDate": 1624248000000,
   "endDate": 1640926800000,
   "actualEndDate": 1655092800000,
