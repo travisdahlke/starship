@@ -164,7 +164,7 @@
           "name": "Issuance of a Final EA",
           "originalTargetDate": "2021-12-31",
           "currentTargetDate": "2022-06-13",
-          "milestoneComplete": false,
+          "milestoneComplete": true,
           "numberOfTargetDateChanges": 0,
           "fast41MissedDates": null
         },
