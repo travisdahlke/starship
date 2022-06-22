@@ -218,7 +218,7 @@
       "milestoneData": [
         {
           "tid": "1579081",
-          "name": "Request for ESA Consultation Received",
+          "name": "ESA Consultation Request Package Submitted (Lead/Facilitating Agency Action)",
           "originalTargetDate": "2021-08-11",
           "currentTargetDate": "2021-08-11",
           "milestoneComplete": true,
@@ -227,7 +227,7 @@
         },
         {
           "tid": "1579096",
-          "name": "Consultation Package Deemed Complete – Informal",
+          "name": "NOAA determines ESA Consultation Package is Complete - Informal (Lead/Facilitating Agency Action)",
           "originalTargetDate": "2021-11-04",
           "currentTargetDate": "2021-11-04",
           "milestoneComplete": true,
@@ -236,7 +236,7 @@
         },
         {
           "tid": "1579091",
-          "name": "Conclusion of ESA Consultation",
+          "name": "ESA Consultation Concludes (Cooperating/Participating Agency Action)",
           "originalTargetDate": "2021-12-31",
           "currentTargetDate": "2022-01-31",
           "milestoneComplete": true,
@@ -284,7 +284,7 @@
       "milestoneData": [
         {
           "tid": "1578951",
-          "name": "Lead Agency Requests EFH Consultation by submitting an EFH Assessment",
+          "name": "EFH Consultation Request Submitted – EFH Assessment (Lead/Facilitating Agency Action)",
           "originalTargetDate": "2021-09-17",
           "currentTargetDate": "2021-09-17",
           "milestoneComplete": true,
@@ -293,7 +293,7 @@
         },
         {
           "tid": "1578956",
-          "name": "NOAA Determines the EFH Assessment is complete and Initiates consultation",
+          "name": "NOAA determines EFH Assessment is Complete (Lead/Facilitating Agency Action)",
           "originalTargetDate": "2021-10-18",
           "currentTargetDate": "2021-10-18",
           "milestoneComplete": true,
@@ -302,7 +302,7 @@
         },
         {
           "tid": "1578961",
-          "name": "NOAA Issues any EFH conservation recommendations",
+          "name": "NOAA Issues any EFH Conservation Recommendations (Cooperating/Participating Agency Action)",
           "originalTargetDate": "2021-10-29",
           "currentTargetDate": "2021-10-29",
           "milestoneComplete": true,
