@@ -236,7 +236,7 @@
         },
         {
           "tid": "1579091",
-          "name": "ESA Consultation Concludes (Cooperating/Participating Agency Action)",
+          "name": "ESA Consultation Concludes (Agency Action)",
           "originalTargetDate": "2021-12-31",
           "currentTargetDate": "2022-01-31",
           "milestoneComplete": true,
@@ -302,7 +302,7 @@
         },
         {
           "tid": "1578961",
-          "name": "NOAA Issues any EFH Conservation Recommendations (Cooperating/Participating Agency Action)",
+          "name": "NOAA Issues any EFH Conservation Recommendations (Agency Action)",
           "originalTargetDate": "2021-10-29",
           "currentTargetDate": "2021-10-29",
           "milestoneComplete": true,
