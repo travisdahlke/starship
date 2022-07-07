@@ -23,7 +23,8 @@
           "name": "Request for ESA Consultation Received",
           "originalTargetDate": "2021-06-21",
           "currentTargetDate": "2021-06-21",
-          "milestoneComplete": true,
+          "milestoneComplete": 1,
+          "alternative_justification_set": false,
           "numberOfTargetDateChanges": 0,
           "fast41MissedDates": null
         },
@@ -32,7 +33,8 @@
           "name": "Consultation Package Deemed Complete – Formal",
           "originalTargetDate": "2021-10-06",
           "currentTargetDate": "2021-10-06",
-          "milestoneComplete": true,
+          "milestoneComplete": 1,
+          "alternative_justification_set": false,
           "numberOfTargetDateChanges": 0,
           "fast41MissedDates": null
         },
@@ -41,7 +43,8 @@
           "name": "Conclusion of ESA Consultation",
           "originalTargetDate": "2021-12-31",
           "currentTargetDate": "2022-04-22",
-          "milestoneComplete": true,
+          "milestoneComplete": 1,
+          "alternative_justification_set": false,
           "numberOfTargetDateChanges": 0,
           "fast41MissedDates": null
         }
@@ -89,7 +92,8 @@
           "name": "Consultation initiated with SHPO/THPO",
           "originalTargetDate": "2021-06-25",
           "currentTargetDate": "2021-06-25",
-          "milestoneComplete": true,
+          "milestoneComplete": 1,
+          "alternative_justification_set": false,
           "numberOfTargetDateChanges": 0,
           "fast41MissedDates": null
         },
@@ -98,7 +102,8 @@
           "name": "Section 106 consultation concluded",
           "originalTargetDate": "2021-12-20",
           "currentTargetDate": "2022-05-06",
-          "milestoneComplete": true,
+          "milestoneComplete": 1,
+          "alternative_justification_set": false,
           "numberOfTargetDateChanges": 0,
           "fast41MissedDates": null
         }
@@ -146,7 +151,8 @@
           "name": "Determination to prepare an Environmental Assessment (EA)",
           "originalTargetDate": "2021-07-01",
           "currentTargetDate": "2021-07-01",
-          "milestoneComplete": true,
+          "milestoneComplete": 1,
+          "alternative_justification_set": false,
           "numberOfTargetDateChanges": 0,
           "fast41MissedDates": null
         },
@@ -155,7 +161,8 @@
           "name": "Issuance of a Draft EA / Release for Public Review",
           "originalTargetDate": "2021-09-17",
           "currentTargetDate": "2021-09-17",
-          "milestoneComplete": true,
+          "milestoneComplete": 1,
+          "alternative_justification_set": false,
           "numberOfTargetDateChanges": 0,
           "fast41MissedDates": null
         },
@@ -164,7 +171,8 @@
           "name": "Issuance of a Final EA",
           "originalTargetDate": "2021-12-31",
           "currentTargetDate": "2022-06-13",
-          "milestoneComplete": true,
+          "milestoneComplete": 1,
+          "alternative_justification_set": false,
           "numberOfTargetDateChanges": 0,
           "fast41MissedDates": null
         },
@@ -173,7 +181,8 @@
           "name": "EA Process Concluded",
           "originalTargetDate": "2021-12-31",
           "currentTargetDate": "2022-06-13",
-          "milestoneComplete": true,
+          "milestoneComplete": 1,
+          "alternative_justification_set": false,
           "numberOfTargetDateChanges": 0,
           "fast41MissedDates": null
         }
@@ -221,7 +230,8 @@
           "name": "ESA Consultation Request Package Submitted (Lead/Facilitating Agency Action)",
           "originalTargetDate": "2021-08-11",
           "currentTargetDate": "2021-08-11",
-          "milestoneComplete": true,
+          "milestoneComplete": 1,
+          "alternative_justification_set": false,
           "numberOfTargetDateChanges": 0,
           "fast41MissedDates": null
         },
@@ -230,7 +240,8 @@
           "name": "NOAA determines ESA Consultation Package is Complete - Informal (Lead/Facilitating Agency Action)",
           "originalTargetDate": "2021-11-04",
           "currentTargetDate": "2021-11-04",
-          "milestoneComplete": true,
+          "milestoneComplete": 1,
+          "alternative_justification_set": false,
           "numberOfTargetDateChanges": 0,
           "fast41MissedDates": null
         },
@@ -239,7 +250,8 @@
           "name": "ESA Consultation Concludes (Agency Action)",
           "originalTargetDate": "2021-12-31",
           "currentTargetDate": "2022-01-31",
-          "milestoneComplete": true,
+          "milestoneComplete": 1,
+          "alternative_justification_set": false,
           "numberOfTargetDateChanges": 0,
           "fast41MissedDates": null
         }
@@ -287,7 +299,8 @@
           "name": "EFH Consultation Request Submitted – EFH Assessment (Lead/Facilitating Agency Action)",
           "originalTargetDate": "2021-09-17",
           "currentTargetDate": "2021-09-17",
-          "milestoneComplete": true,
+          "milestoneComplete": 1,
+          "alternative_justification_set": false,
           "numberOfTargetDateChanges": 0,
           "fast41MissedDates": null
         },
@@ -296,7 +309,8 @@
           "name": "NOAA determines EFH Assessment is Complete (Lead/Facilitating Agency Action)",
           "originalTargetDate": "2021-10-18",
           "currentTargetDate": "2021-10-18",
-          "milestoneComplete": true,
+          "milestoneComplete": 1,
+          "alternative_justification_set": false,
           "numberOfTargetDateChanges": 0,
           "fast41MissedDates": null
         },
@@ -305,7 +319,8 @@
           "name": "NOAA Issues any EFH Conservation Recommendations (Agency Action)",
           "originalTargetDate": "2021-10-29",
           "currentTargetDate": "2021-10-29",
-          "milestoneComplete": true,
+          "milestoneComplete": 1,
+          "alternative_justification_set": false,
           "numberOfTargetDateChanges": 0,
           "fast41MissedDates": null
         }
