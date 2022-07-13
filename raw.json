@@ -62,13 +62,13 @@
       "inProgressData": {
         "daysInPause": 0,
         "startDate": "10/06/2021",
-        "endDate": "04/22/2022",
-        "durationDays": 198
+        "endDate": "12/31/2021",
+        "durationDays": 86
       },
       "totalDuration": {
         "startDate": "06/21/2021",
-        "endDate": "04/22/2022",
-        "durationDays": 305
+        "endDate": "12/31/2021",
+        "durationDays": 193
       }
     },
     {
@@ -121,13 +121,13 @@
       "inProgressData": {
         "daysInPause": 0,
         "startDate": "06/25/2021",
-        "endDate": "05/06/2022",
-        "durationDays": 315
+        "endDate": "12/20/2021",
+        "durationDays": 178
       },
       "totalDuration": {
         "startDate": "06/25/2021",
-        "endDate": "05/06/2022",
-        "durationDays": 315
+        "endDate": "12/20/2021",
+        "durationDays": 178
       }
     },
     {
@@ -200,13 +200,13 @@
       "inProgressData": {
         "daysInPause": 0,
         "startDate": "07/01/2021",
-        "endDate": "06/13/2022",
-        "durationDays": 347
+        "endDate": "12/31/2021",
+        "durationDays": 183
       },
       "totalDuration": {
         "startDate": "07/01/2021",
-        "endDate": "06/13/2022",
-        "durationDays": 347
+        "endDate": "12/31/2021",
+        "durationDays": 183
       }
     },
     {
@@ -269,13 +269,13 @@
       "inProgressData": {
         "daysInPause": 0,
         "startDate": "11/04/2021",
-        "endDate": "01/31/2022",
-        "durationDays": 88
+        "endDate": "12/31/2021",
+        "durationDays": 57
       },
       "totalDuration": {
         "startDate": "08/11/2021",
-        "endDate": "01/31/2022",
-        "durationDays": 173
+        "endDate": "12/31/2021",
+        "durationDays": 142
       }
     },
     {
