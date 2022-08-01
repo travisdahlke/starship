@@ -227,7 +227,7 @@
       "milestoneData": [
         {
           "tid": "1579081",
-          "name": "ESA Consultation Request Package Submitted (Lead/Facilitating Agency Action)",
+          "name": "ESA Consultation Request Package Submitted (Agency Action)",
           "originalTargetDate": "2021-08-11",
           "currentTargetDate": "2021-08-11",
           "milestoneComplete": 1,
@@ -237,7 +237,7 @@
         },
         {
           "tid": "1579096",
-          "name": "NOAA determines ESA Consultation Package is Complete - Informal (Lead/Facilitating Agency Action)",
+          "name": "NOAA determines ESA Consultation Package is Complete - Informal (Agency Action)",
           "originalTargetDate": "2021-11-04",
           "currentTargetDate": "2021-11-04",
           "milestoneComplete": 1,
