@@ -296,7 +296,7 @@
       "milestoneData": [
         {
           "tid": "1578951",
-          "name": "EFH Consultation Request Submitted – EFH Assessment (Lead/Facilitating Agency Action)",
+          "name": "EFH Consultation Request Submitted – EFH Assessment (Agency Action)",
           "originalTargetDate": "2021-09-17",
           "currentTargetDate": "2021-09-17",
           "milestoneComplete": 1,
@@ -306,7 +306,7 @@
         },
         {
           "tid": "1578956",
-          "name": "NOAA determines EFH Assessment is Complete (Lead/Facilitating Agency Action)",
+          "name": "NOAA determines EFH Assessment is Complete (Agency Action)",
           "originalTargetDate": "2021-10-18",
           "currentTargetDate": "2021-10-18",
           "milestoneComplete": 1,
