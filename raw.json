@@ -89,7 +89,7 @@
       "milestoneData": [
         {
           "tid": "1579121",
-          "name": "Consultation initiated with SHPO/THPO",
+          "name": "Consultation initiated with SHPO/THPO (Agency Action)",
           "originalTargetDate": "2021-06-25",
           "currentTargetDate": "2021-06-25",
           "milestoneComplete": 1,
@@ -99,7 +99,7 @@
         },
         {
           "tid": "1579131",
-          "name": "Section 106 consultation concluded",
+          "name": "Section 106 consultation concluded (Agency Action)",
           "originalTargetDate": "2021-12-20",
           "currentTargetDate": "2022-05-06",
           "milestoneComplete": 1,
@@ -148,7 +148,7 @@
       "milestoneData": [
         {
           "tid": "1578906",
-          "name": "Determination to prepare an Environmental Assessment (EA)",
+          "name": "Determination to prepare an Environmental Assessment (EA) (Agency Action)",
           "originalTargetDate": "2021-07-01",
           "currentTargetDate": "2021-07-01",
           "milestoneComplete": 1,
@@ -158,7 +158,7 @@
         },
         {
           "tid": "1578911",
-          "name": "Issuance of a Draft EA / Release for Public Review",
+          "name": "Issuance of a Draft EA / Release for Public Review (Agency Action)",
           "originalTargetDate": "2021-09-17",
           "currentTargetDate": "2021-09-17",
           "milestoneComplete": 1,
@@ -168,7 +168,7 @@
         },
         {
           "tid": "1578916",
-          "name": "Issuance of a Final EA",
+          "name": "Issuance of a Final EA (Agency Action)",
           "originalTargetDate": "2021-12-31",
           "currentTargetDate": "2022-06-13",
           "milestoneComplete": 1,
@@ -178,7 +178,7 @@
         },
         {
           "tid": "1578926",
-          "name": "EA Process Concluded",
+          "name": "EA Process Concluded (Agency Action)",
           "originalTargetDate": "2021-12-31",
           "currentTargetDate": "2022-06-13",
           "milestoneComplete": 1,
